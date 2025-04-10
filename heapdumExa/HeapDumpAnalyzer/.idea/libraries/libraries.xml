@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="libraries">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../libraries/com-sun-tools-visualvm-application.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../libraries/com-sun-tools-visualvm-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../libraries/com-sun-tools-visualvm-tools.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../libraries" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../libraries" recursive="false" />
+  </library>
+</component>
